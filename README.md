@@ -1,44 +1,70 @@
-<!-- Banner -->
+<!-- ====================================================== -->
+<!--                    Animated Banner                     -->
+<!-- ====================================================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Srinivas%20Karam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20Enthusiast&descAlignY=55" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C9FF,100:92FE9D&text=Srinivas%20Karam&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20Developer&descSize=20&descAlignY=58"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Srinivas Karam</h1>
+<h1 align="center">
+Hi 👋 I'm Srinivas Karam
+</h1>
 
 <h3 align="center">
-Java Full Stack Developer | Spring Boot | MySQL | Problem Solver
+Java Developer • Spring Boot • MySQL • Full Stack Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Developer;Full+Stack+Developer;MySQL+Database+Developer;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&color=00C9FF&lines=Java+Developer;Spring+Boot+Developer;Backend+Developer;Full+Stack+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies"/>
+
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-💻 Passionate Java Full Stack Developer
+```java
+public class Srinivas {
 
-🌱 Currently learning Advanced Spring Boot & System Design
+    String role = "Java Full Stack Developer";
 
-🔭 Building real-world Full Stack Applications
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "MySQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "GitHub"
+    };
 
-💡 Love solving Data Structures & Algorithms problems
+    String passion = "Building Real World Applications";
 
-🎯 Goal: Become a Software Engineer at a Top Product Company
+    String learning = "Advanced Spring Boot, REST APIs, System Design";
+
+    String goal = "Software Engineer";
+
+}
+```
 
 ---
 
-## 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/srinivas-karam-7b53592a5">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Srinivas703">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
@@ -47,127 +73,23 @@ Java Full Stack Developer | Spring Boot | MySQL | Problem Solver
 
 # 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,github,vscode,idea"/>
 
 </p>
 
 ---
 
-### Frameworks & Tools
+# 🚀 Featured Projects
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=idea"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-## 🤖 Resume Screener
-
-AI-powered Resume Screening and Job Matching Platform
-
-### Features
-
-- Spring Boot Backend
-- Resume Upload
-- Job Matching
-- MySQL Database
-- REST APIs
-
-🔗 Repository
-
-https://github.com/Srinivas703/ResumeScreener
-
----
-
-## 🏨 Hotel Management System
-
-A Java Swing Desktop Application
-
-### Features
-
-- Room Booking
-- Guest Check-In
-- Guest Check-Out
-- Billing
-- Invoice Generation
-- Room Management
-- MySQL Database
-
-🔗 Repository
-
-https://github.com/Srinivas703/Hotel_Management_System
-
----
-
-## 🛒 Ecommerce SQL Database
-
-Database project demonstrating relational database concepts.
-
-### Features
-
-- Database Design
-- ER Diagram
-- Tables
-- Joins
-- Queries
-- Constraints
-- SQL Operations
-
-🔗 Repository
-
-https://github.com/Srinivas703/Ecommerce_sql_project
-
----
-
-## 🌐 Portfolio Website
-
-Personal Portfolio built using
-
-- HTML
-- CSS
-- JavaScript
-
-🔗 Repository
-
-https://github.com/Srinivas703/Portfolio
-
----
-
-## 🧮 Calculator
-
-Responsive Calculator built using
-
-- HTML
-- CSS
-- JavaScript
-
-🔗 Repository
-
-https://github.com/Srinivas703/Calculator
+| Project | Description |
+|----------|-------------|
+| 🤖 Resume Screener | AI Powered Resume Screening Platform using Spring Boot |
+| 🏨 Hotel Management System | Java Swing + MySQL Desktop Application |
+| 🛒 Ecommerce SQL Database | SQL Database Design Project |
+| 🌐 Portfolio Website | Personal Portfolio using HTML CSS JavaScript |
+| 🧮 Calculator | Responsive Calculator Website |
 
 ---
 
@@ -175,9 +97,9 @@ https://github.com/Srinivas703/Calculator
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Srinivas703&show_icons=true&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Srinivas703&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas703&layout=compact&theme=tokyonight"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srinivas703&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -213,40 +135,54 @@ https://github.com/Srinivas703/Calculator
 
 ---
 
-# 🐍 Contribution Snake
+# ⚡ Coding Activity
 
+<p align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srinivas703&theme=tokyonight"/>
 
+</p>
 
-###
-
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
 ---
 
-# 💡 Quote
+# 📅 GitHub Calendar
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Srinivas703&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎮 Pacman Contribution Graph
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Srinivas703/Srinivas703/output/pacman-contribution-graph-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Srinivas703/Srinivas703/output/pacman-contribution-graph.svg">
+
+<img alt="pacman contribution graph"
+src="https://raw.githubusercontent.com/Srinivas703/Srinivas703/output/pacman-contribution-graph.svg">
+
+</picture>
+
+---
+
+# 🐍 Snake Animation
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Srinivas703/Srinivas703/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# ☕ Random Developer Quote
 
 <p align="center">
 
@@ -256,24 +192,58 @@ https://github.com/Srinivas703/Calculator
 
 ---
 
-# 👀 Profile Views
+# 👀 Visitor Count
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Srinivas703&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Srinivas703&label=Visitors&color=blueviolet&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 🎯 2026 Goals
 
-> "Every bug teaches something new, and every project makes me a better developer."
+✅ Master Spring Boot
+
+✅ Build Scalable REST APIs
+
+✅ Learn Microservices
+
+✅ Improve DSA
+
+✅ Crack Product-Based Company
+
+---
+
+# 💡 Fun Fact
+
+```text
+while(alive){
+
+    eat();
+
+    code();
+
+    sleep();
+
+    repeat();
+
+}
+```
 
 ---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
+<img src="https://github-profile-3d-contrib.vercel.app/images/profile-night-rainbow.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00C9FF,100:92FE9D"/>
 
 </p>
