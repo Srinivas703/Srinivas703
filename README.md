@@ -173,19 +173,6 @@ src="https://raw.githubusercontent.com/Srinivas703/Srinivas703/output/pacman-con
 ---
 
 
-
-
-
-# 👀 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Srinivas703&label=Visitors&color=blueviolet&style=for-the-badge"/>
-
-</p>
-
----
-
 # 🎯 2026 Goals
 
 ✅ Master Spring Boot
