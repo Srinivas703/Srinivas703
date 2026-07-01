@@ -172,25 +172,9 @@ src="https://raw.githubusercontent.com/Srinivas703/Srinivas703/output/pacman-con
 
 ---
 
-# 🐍 Snake Animation
 
-<p align="center">
 
-<img src="https://raw.githubusercontent.com/Srinivas703/Srinivas703/output/github-contribution-grid-snake.svg"/>
 
-</p>
-
----
-
-# ☕ Random Developer Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
 
 # 👀 Visitor Count
 
